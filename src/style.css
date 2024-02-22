@@ -10,10 +10,10 @@ body {
   margin: auto;
   height: 400px;
   width: 250px;
-  padding: 20px;
+  padding: 140px;
   border: 1px solid black;
   position: relative;
-  font-size: 80px;
+  font-size: 70px;
   &::before {
     position: absolute;
     top: 5px;
